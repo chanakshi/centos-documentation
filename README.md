@@ -41,6 +41,6 @@ Community Enterprise Operating System (CentOS) is a free open-source distributio
    Once installation is complete, click **Reboot**.  
    Remove the USB drive during the reboot process.
 
-## Additional Resources
+### Additional Resources
 - [CentOS Documentation](https://docs.centos.org/en-US/docs/)
 - [CentOS Official Website](https://www.centos.org/)
